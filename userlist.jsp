@@ -1,10 +1,4 @@
 
-  <%--Created by IntelliJ IDEA.--%>
-  <%--User: 11043--%>
-  <%--Date: 2023/12/18--%>
-  <%--Time: 15:24--%>
-  <%--To change this template use File | Settings | File Templates.--%>
-<%--&ndash;%&gt;--%>
   <%@ page contentType="text/html;charset=UTF-8" language="java" %>
   <%request.setCharacterEncoding("utf-8");%>
   <%@ page import="java.sql.*" %>
