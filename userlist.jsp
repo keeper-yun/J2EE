@@ -11,7 +11,6 @@
   <%@ page import="java.io.*" %>
   <%@ page import="java.util.*" %>
   <%@ page import="java.lang.*" %>
-  <%@ page import="Servlet14.RegisterServlet" %>
   <style>
       th {
           font-family: 宋体;font-size: 18px;color:black;
